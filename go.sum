@@ -1,7 +1,7 @@
 github.com/AsynqLab/asynq v0.24.4 h1:o3CSokNn+S+teBzjoHw29AClD/d84YJg3Au6IbTMeFQ=
 github.com/AsynqLab/asynq v0.24.4/go.mod h1:C55YpTsJWs46EdDbIEQ67efBjKqU96zNFTVxjnRUqXw=
-github.com/AsynqLab/asynqmon v0.1.4 h1:Ornd+rMilha8ayZDcd3bxkBxlYFU00UF6W165DvtAGI=
-github.com/AsynqLab/asynqmon v0.1.4/go.mod h1:qsUkh71y5OwvtoggU/PA5Q6iN7WR7rK54UTM75SacHI=
+github.com/AsynqLab/asynqmon v0.1.5 h1:gAy2qpTQ7ytHEYFpyqpj0U3rCrmOPI7FI7E+OyVpcMM=
+github.com/AsynqLab/asynqmon v0.1.5/go.mod h1:qsUkh71y5OwvtoggU/PA5Q6iN7WR7rK54UTM75SacHI=
 github.com/andybalholm/brotli v1.0.5 h1:8uQZIdzKmjc/iuPu7O2ioW48L81FgatrcpfFmiq/cCs=
 github.com/andybalholm/brotli v1.0.5/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHGRSepvi9Eig=
 github.com/bsm/ginkgo/v2 v2.12.0 h1:Ny8MWAHyOepLGlLKYmXG4IEkioBysk6GpaRTLC8zwWs=

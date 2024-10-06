@@ -4,7 +4,7 @@ go 1.23.1
 
 require (
 	github.com/AsynqLab/asynq v0.24.4
-	github.com/AsynqLab/asynqmon v0.1.4
+	github.com/AsynqLab/asynqmon v0.1.5
 	github.com/gofiber/fiber/v2 v2.52.5
 )
 
